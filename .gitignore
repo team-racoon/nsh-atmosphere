@@ -1,5 +1,4 @@
-!/atmosphere/kip_patches/
-/atmosphere/kip_patches/*
-!/atmosphere/kip_patches/default_nogc/*
+/atmosphere/kip_patches/fs_patches/*
+/atmosphere/kip_patches/loader_patches/*
 /atmosphere/exefs_patches/*
 /atmosphere/kips/*
