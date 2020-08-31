@@ -38,10 +38,9 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 •Kosmos Toolbox (https://github.com/AtlasNX/Kosmos-Toolbox/releases) v4.0.0 - on/off modules  
 •ldnmitm cfg (https://github.com/spacemeowx2/ldn_mitm/releases) v1.5.0 - lan-play 🆙  
 •LinkAccount v0.5.0 - fake nintendo user ⭐️  
-•mercury v5.10 - delete updates  
+•Mercury v5.10 - delete updates  
 •NX-Activity-Log (https://github.com/tallbl0nde/NX-Activity-Log/releases) - v1.3.2 displays more play activity  
 •NXdumptool (https://github.com/DarkMatterCore/nxdumptool/releases) v1.1.10 - backup of games  
-•nxmtp (https://github.com/liuervehc/nxmtp/releases) v0.1.4 - connect to pc  
 •NX-Shell (https://github.com/joel16/NX-Shell/releases) v3.10 - file explorer  
 •NXthemes_Installer (https://github.com/exelix11/SwitchThemeInjector/releases) v2.5.0 - install themes 🆙  
 •Payload_launcher (https://github.com/suchmememanyskill/Payload_Launcher/releases) v3.0.0 - lauch payload  
