@@ -1,4 +1,5 @@
 /atmosphere/kip_patches/fs_patches/*
 /atmosphere/kip_patches/loader_patches/*
 /atmosphere/exefs_patches/*
+!/atmosphere/exefs_patches/bluetooth_patches
 /atmosphere/kips/*
