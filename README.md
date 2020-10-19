@@ -13,8 +13,8 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 •emuiibo (https://github.com/XorTroll/emuiibo/releases) v0.5.1 - amiibos  
 •sys-ftpd-light (https://github.com/cathery/sys-ftpd-light/releases) v1.0.4 - ftp server   
 •sys-con (https://github.com/cathery/sys-con/releases) v0.6.2 - generic joysticks  
-•ldn_mitm (https://github.com/spacemeowx2/ldn_mitm/releases) v1.5.0 - lan-play 🆙  
-•missionControl (https://github.com/ndeadly/MissionControl/releases/) v0.2.1 - bluetooth joysticks 🆕  
+•ldn_mitm (https://github.com/spacemeowx2/ldn_mitm/releases) v1.5.0 - lan-play  
+•missionControl (https://github.com/ndeadly/MissionControl/releases/) v0.3.0 - bluetooth joysticks 🆙  
 
 **.overlays**  
 •emuiibo.ovl (https://github.com/XorTroll/emuiibo/releases) v0.5.1  
@@ -40,8 +40,8 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 •Mercury v5.10 - delete updates  
 •NX-Activity-Log (https://github.com/tallbl0nde/NX-Activity-Log/releases) - v1.3.2 displays more play activity  
 •NXdumptool (https://github.com/DarkMatterCore/nxdumptool/releases) v1.1.10 - backup of games  
-•NX-Shell (https://github.com/joel16/NX-Shell/releases) v3.2.0 - file explorer 🆙  
-•NXthemes_Installer (https://github.com/exelix11/SwitchThemeInjector/releases) v2.5.1 - install themes 🆙  
+•NX-Shell (https://github.com/joel16/NX-Shell/releases) v3.2.0 - file explorer   
+•NXthemes_Installer (https://github.com/exelix11/SwitchThemeInjector/releases) v2.5.1 - install themes   
 •Payload_launcher (https://github.com/suchmememanyskill/Payload_Launcher/releases) v3.0.0 - lauch payload  
 •RipJKForwader (https://github.com/darkxex/RipJKNX/releases) v1.7.6 app de JKAnime  
 •sys-clk-manager (https://github.com/retronx-team/sys-clk/releases) v1.0 overclock module control  
