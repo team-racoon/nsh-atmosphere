@@ -1,1 +1,7 @@
-src export-ignore
+# Git Files
+.gitignore export-ignore
+.gitattributes export-ignore
+*.zip export-ignore
+# Files
+*nsh-logo.png export-ignore
+*README.md export-ignore
