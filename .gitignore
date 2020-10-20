@@ -3,3 +3,4 @@
 /atmosphere/exefs_patches/*
 !/atmosphere/exefs_patches/bluetooth_patches
 /atmosphere/kips/*
+*.zip
