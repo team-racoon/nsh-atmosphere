@@ -31,7 +31,6 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 •Checkpoint (https://github.com/FlagBrew/Checkpoint/releases) v3.7.4 - backup saves  
 •Daybreak (https://github.com/Atmosphere-NX/Atmosphere/releases) v1.0.0 - update firmware  
 •EdiZon (https://github.com/WerWolv/EdiZon/releases) v3.1.0 nightly - backup saves  
-•Emutool (https://github.com/XorTroll/emuiibo/releases) v0.6.1 - amiibos 🆕  
 •Goldleaf (https://github.com/XorTroll/Goldleaf/releases) v0.8.0  - install nsp  
 •JKSV (https://github.com/J-D-K/JKSV/releases) v06.07.2020 - backup saves  
 •Kosmos Toolbox (https://github.com/AtlasNX/Kosmos-Toolbox/releases) v4.0.0 - on/off modules  
