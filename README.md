@@ -36,9 +36,9 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 •JKSV (https://github.com/J-D-K/JKSV/releases) v06.07.2020 - backup saves  
 •Kosmos Toolbox (https://github.com/AtlasNX/Kosmos-Toolbox/releases) v4.0.0 - on/off modules  
 •ldnmitm cfg (https://github.com/spacemeowx2/ldn_mitm/releases) v1.6.0 - lan-play 🆙  
-•LinkAccount v0.5.0 - fake nintendo user ⭐️  
+•Linkalho (https://github.com/rdmrocha/linkalho/releases) v1.0.3 - link fake Nintendo accounts 🆕  
 •Mercury v5.10 - delete updates  
-•NX-Activity-Log (https://github.com/tallbl0nde/NX-Activity-Log/releases) - v1.3.2 displays more play activity  
+•NX-Activity-Log (https://github.com/tallbl0nde/NX-Activity-Log/releases) v1.3.2 - displays more play activity  
 •NXdumptool (https://github.com/DarkMatterCore/nxdumptool/releases) v1.1.12 🆙 - backup of games  
 •NX-Shell (https://github.com/joel16/NX-Shell/releases) v3.2.0 - file explorer   
 •NXthemes_Installer (https://github.com/exelix11/SwitchThemeInjector/releases) v2.5.1 - install themes   
