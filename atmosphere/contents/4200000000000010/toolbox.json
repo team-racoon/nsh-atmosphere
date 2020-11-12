@@ -1,5 +1,5 @@
 {
 	"name"  : "Wireless LAN",
 	"tid"   : "4200000000000010",
-	"requires_reboot": false
+	"requires_reboot": true
 }
