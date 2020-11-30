@@ -33,7 +33,6 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 •EdiZon (https://github.com/WerWolv/EdiZon/releases) v3.1.0 nightly - backup saves  
 •Goldleaf (https://github.com/XorTroll/Goldleaf/releases) v0.8.0  - install nsp  
 •JKSV (https://github.com/J-D-K/JKSV/releases) v06.07.2020 - backup saves  
-•Kosmos Toolbox (https://github.com/AtlasNX/Kosmos-Toolbox/releases) v4.0.0 - on/off modules  
 •ldnmitm cfg (https://github.com/spacemeowx2/ldn_mitm/releases) v1.6.0 - lan-play   
 •Linkalho (https://github.com/rdmrocha/linkalho/releases) v1.0.3 - link fake Nintendo accounts   
 •Mercury v5.10 - delete updates  
