@@ -14,7 +14,7 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 •sys-ftpd-light (https://github.com/cathery/sys-ftpd-light/releases) v1.0.4 - ftp server   
 •sys-con (https://github.com/cathery/sys-con/releases) v0.6.2 - generic joysticks  
 •ldn_mitm (https://github.com/spacemeowx2/ldn_mitm/releases) v1.6.0 - lan-play   
-•missionControl (https://github.com/ndeadly/MissionControl/releases/) v0.4.0 - bluetooth joysticks 🆙  
+•missionControl (https://github.com/ndeadly/MissionControl/releases/) v0.3.0 - bluetooth joysticks   
 
 **.overlays**  
 •emuiibo.ovl (https://github.com/XorTroll/emuiibo/releases) v0.6.1   
