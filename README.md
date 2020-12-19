@@ -13,8 +13,8 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 •[emuiibo](https://github.com/XorTroll/emuiibo/releases) v0.6.1 - amiibos   
 •[sys-ftpd-light](https://github.com/cathery/sys-ftpd-light/releases) v1.0.4 - ftp server   
 •[sys-con](https://github.com/cathery/sys-con/releases) v0.6.2 - generic joysticks  
-•[ldn_mitm](https://github.com/spacemeowx2/ldn_mitm/releases) v1.6.0 - lan-play   
-•[missionControl](https://github.com/ndeadly/MissionControl/releases/) v0.4.1 - bluetooth joysticks 🆙  
+•[ldn_mitm](https://github.com/spacemeowx2/ldn_mitm/releases) v1.7.0 - lan-play 🆙  
+•[missionControl](https://github.com/ndeadly/MissionControl/releases/) v0.4.1 - bluetooth joysticks   
 
 **.overlays**  
 •[emuiibo.ovl](https://github.com/XorTroll/emuiibo/releases) v0.6.1   
@@ -26,7 +26,7 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 
 **apps - homebrew**  
 •[App Store](https://github.com/vgmoose/hb-appstore/releases) v2.2 - store of apps  
-•[Awoo Installer](https://github.com/Huntereb/Awoo-Installer/releases) v1.3.4 - install nsp,xci,nsz 🆙  
+•[Awoo Installer](https://github.com/Huntereb/Awoo-Installer/releases) v1.3.4 - install nsp,xci,nsz   
 •[Browser](https://github.com/crc-32/BrowseNX/releases) v0.4.0 Launch native applet Browser  
 •[Checkpoint](https://github.com/FlagBrew/Checkpoint/releases) v3.7.4 - backup saves  
 •[Daybreak](https://github.com/Atmosphere-NX/Atmosphere/releases) v1.0.0 - update firmware  
@@ -34,7 +34,7 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 •[Goldleaf](https://github.com/XorTroll/Goldleaf/releases) v0.8.0  - install nsp  
 •[JKSV](https://github.com/J-D-K/JKSV/releases) v06.07.2020 - backup saves  
 •[ldnmitm cfg](https://github.com/spacemeowx2/ldn_mitm/releases) v1.6.0 - lan-play   
-•[Linkalho](https://github.com/rdmrocha/linkalho/releases) v1.0.3 - link fake Nintendo accounts   
+•[Linkalho](https://github.com/rdmrocha/linkalho/releases) v1.0.4 - link fake Nintendo accounts 🆙   
 •Mercury v5.10 - delete updates  
 •[NX-Activity-Log](https://github.com/tallbl0nde/NX-Activity-Log/releases) v1.3.2 - displays more play activity  
 •[NXdumptool](https://github.com/DarkMatterCore/nxdumptool/releases) v1.1.12  - backup of games  
