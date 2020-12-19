@@ -4,7 +4,7 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 ![NSH Logo](https://raw.githubusercontent.com/team-racoon/nsh-atmosphere/master/nsh-logo.png)
 
 
-# Lista de cambios para el pack 16.1.0
+# Lista de cambios para el pack 16.2.0
 
 **módulos**  
 •[sys-clk](https://github.com/retronx-team/sys-clk/releases) v1.0.0 - overclock  
