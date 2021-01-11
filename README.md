@@ -41,7 +41,7 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 •[NX-Shell](https://github.com/joel16/NX-Shell/releases) v3.2.0 - file explorer   
 •[NXthemes_Installer](https://github.com/exelix11/SwitchThemeInjector/releases) v2.6 - install themes   
 •[Payload_launcher](https://github.com/suchmememanyskill/Payload_Launcher/releases) v3.0.0 - lauch payload  
-•[RipJKForwader](https://github.com/darkxex/RipJKNX/releases) v1.7.6 app de JKAnime  
+•[RipJKForwader](https://github.com/darkxex/RipJKNX/releases) v1.8.0 app de JKAnime  
 •[sys-clk-manager](https://github.com/retronx-team/sys-clk/releases) v1.0 overclock module control  
 
 -----------------------------------------------------------------------------
