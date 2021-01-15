@@ -4,7 +4,7 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 ![NSH Logo](https://raw.githubusercontent.com/team-racoon/nsh-atmosphere/master/nsh-logo.png)
 
 
-# Lista de cambios para el pack 17.0.0
+# Lista de cambios para el pack 17.1.0
 
 **módulos**  
 •[sys-clk](https://github.com/retronx-team/sys-clk/releases) v1.0.0 - overclock  
@@ -15,6 +15,7 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 •[sys-con](https://github.com/cathery/sys-con/releases) v0.6.2 - generic joysticks  
 •[ldn_mitm](https://github.com/spacemeowx2/ldn_mitm/releases) v1.7.0 - lan-play   
 •[missionControl](https://github.com/ndeadly/MissionControl/releases/) v0.4.1 - bluetooth joysticks   
+•[saltyNX](https://github.com/masagrator/SaltyNX/releases) v0.4.0a - view FPS 🆕  
 
 **.overlays**  
 •[emuiibo.ovl](https://github.com/XorTroll/emuiibo/releases) v0.6.1   
@@ -30,8 +31,7 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 •[Browser](https://github.com/crc-32/BrowseNX/releases) v0.4.0 Launch native applet Browser  
 •[Checkpoint](https://github.com/FlagBrew/Checkpoint/releases) v3.7.4 - backup saves  
 •[Daybreak](https://github.com/Atmosphere-NX/Atmosphere/releases) v1.0.0 - update firmware  
-•[EdiZon](https://github.com/WerWolv/EdiZon/releases) v3.1.0 nightly - backup saves  
-•[Goldleaf](https://github.com/XorTroll/Goldleaf/releases) v0.8.0  - install nsp  
+•[EdiZon](https://github.com/WerWolv/EdiZon/releases) v3.1.0 nightly - backup saves   
 •[JKSV](https://github.com/J-D-K/JKSV/releases) v06.07.2020 - backup saves  
 •[ldnmitm cfg](https://github.com/spacemeowx2/ldn_mitm/releases) v1.7.0 - lan-play    
 •[Linkalho](https://github.com/rdmrocha/linkalho/releases) v1.0.4 - link fake Nintendo accounts    
@@ -41,7 +41,7 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 •[NX-Shell](https://github.com/joel16/NX-Shell/releases) v3.2.0 - file explorer   
 •[NXthemes_Installer](https://github.com/exelix11/SwitchThemeInjector/releases) v2.6 - install themes   
 •[Payload_launcher](https://github.com/suchmememanyskill/Payload_Launcher/releases) v3.0.0 - lauch payload  
-•[RipJKForwader](https://github.com/darkxex/RipJKNX/releases) v1.8.0 app de JKAnime  
+•[RipJKForwader](https://github.com/darkxex/RipJKNX/releases) v1.8.0 app de JKAnime 
 •[sys-clk-manager](https://github.com/retronx-team/sys-clk/releases) v1.0 overclock module control  
 
 -----------------------------------------------------------------------------
